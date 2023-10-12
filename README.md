@@ -1,0 +1,1 @@
+# rabbit-metric-collector
